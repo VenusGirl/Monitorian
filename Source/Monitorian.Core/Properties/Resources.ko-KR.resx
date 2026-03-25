@@ -157,7 +157,7 @@
     <value>마우스 수직 스크롤</value>
   </data>
   <data name="OrderArrangement" xml:space="preserve">
-    <value>모니터 배열 순서</value>
+    <value>모니터 배열별 정렬</value>
   </data>
   <data name="RestoreReconnection" xml:space="preserve">
     <value>다시 연결 시 밝기 복원</value>
